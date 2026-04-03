@@ -1,0 +1,9 @@
+node_modules/
+dist/
+web/node_modules/
+.omc/
+.claude/
+*.ps1
+handoff/
+kandadesigners/
+files.zip

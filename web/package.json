@@ -1,0 +1,13 @@
+{
+  "name": "week-planner-web",
+  "version": "1.0.0",
+  "description": "AI-powered weekly calendar planner - web version",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.39.0",
+    "express": "^5.1.0"
+  }
+}
